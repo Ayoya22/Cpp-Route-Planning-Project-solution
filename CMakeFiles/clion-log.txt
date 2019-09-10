@@ -1,0 +1,4 @@
+Cannot generate into /home/adipster/Downloads/C++/OpenMap-Route-Planner/home/CppND-Route-Planning-Project
+It is already used for project /home/workspace/CppND-Route-Planning-Project
+
+Please either delete it manually or select another generation directory
